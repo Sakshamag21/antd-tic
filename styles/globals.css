@@ -40,6 +40,8 @@ h1 {
   background: crimson;
   width: 500px;
   height: 500px;
+  margin: auto;
+  margin-top:10vh;
   display: grid;
   grid-template: repeat(3, 1fr) / repeat(3, 1fr);
   gap: 1rem;
